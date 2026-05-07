@@ -2,9 +2,9 @@
 
 Instrutor de IA e NoCode, criador de conteúdo e desenvolvedor de soluções digitais com foco em inteligência artificial aplicada.
 
-Estou em uma fase de construção, estudo e experimentação constante. Respiro tecnologia, acompanho diariamente o mercado de IA e gosto de transformar ferramentas, ideias e tendências em projetos práticos.
+Estou em uma fase de construção, estudo e experimentação constante. Respiro inteligência artificial, acompanho diariamente o mercado de tecnologia e gosto de transformar ferramentas, ideias e tendências em projetos práticos.
 
-Meu foco está na criação de conteúdos, aplicativos, automações e soluções digitais que ajudem pessoas e pequenos negócios a entenderem e aplicarem melhor a tecnologia no dia a dia.
+Meu foco está na criação de conteúdos, aplicativos, automações e soluções digitais que ajudem pessoas, professores e pequenos negócios a entenderem e aplicarem melhor a tecnologia no dia a dia.
 
 ## Sobre mim
 
@@ -12,9 +12,11 @@ Sou professor, instrutor e criador de conteúdo na área de IA e NoCode.
 
 Minha trajetória une educação, comunicação, tecnologia e desenvolvimento de produtos digitais. Gosto de aprender ferramentas novas, testar possibilidades, construir protótipos e transformar conhecimento em algo simples de entender e útil na prática.
 
+No meu canal no YouTube, compartilho aprendizados, testes, ferramentas e bastidores da criação de soluções digitais com inteligência artificial.
+
 Atualmente estou aprofundando meus estudos em inteligência artificial, engenharia de software, Python, SQL, automações, APIs e criação de aplicações web.
 
-Acredito que a inteligência artificial não é apenas uma ferramenta para ganhar tempo. Ela está se tornando uma nova camada de trabalho, criação e operação.
+Acredito que a inteligência artificial não é apenas uma ferramenta para ganhar tempo. Ela está se tornando uma nova camada de trabalho, criação, operação e aprendizado.
 
 ## O que faço
 
@@ -28,6 +30,7 @@ Crio conteúdos e projetos relacionados a:
 - Soluções digitais para delivery e atendimento
 - Uso de IA na educação
 - Criação de produtos digitais e MVPs
+- Testes e análises de novas ferramentas de IA
 
 Meu objetivo é tornar a tecnologia mais acessível, principalmente para quem quer criar soluções reais sem depender de estruturas complexas.
 
@@ -53,6 +56,7 @@ Site:
 | Automação | WhatsApp, Webhooks, n8n, formulários e integrações |
 | Inteligência Artificial | OpenAI, Claude, Gemini, agentes de IA, RAG e automações inteligentes |
 | Conteúdo | LinkedIn, YouTube, tutoriais, aulas e bastidores de criação |
+| Produto | Landing pages, aplicativos comerciais, sistemas simples e MVPs |
 
 ## Minha fase atual
 
@@ -74,6 +78,7 @@ Vejo a IA como uma ponte entre educação, criatividade, negócios e tecnologia.
 | Produtos digitais | Apps, sistemas simples, landing pages e MVPs |
 | Pequenos negócios | Delivery, atendimento, cardápios digitais e automação |
 | Conteúdo | LinkedIn, YouTube, posts técnicos e bastidores de projetos |
+| Mercado de IA | Novas ferramentas, tendências, notícias e análise de cenário |
 
 ## Em estudo
 
@@ -88,12 +93,14 @@ Atualmente venho aprofundando meus conhecimentos em:
 - Automação de processos
 - Desenvolvimento de aplicações web
 - Criação de produtos digitais
+- Agentes de IA e fluxos automatizados
 
 ## Onde me encontrar
 
 | Canal | Link |
 |---|---|
 | LinkedIn | [linkedin.com/in/rafaeltrisso](https://www.linkedin.com/in/rafaeltrisso/) |
+| YouTube | [youtube.com/@rissotech](https://youtube.com/@rissotech) |
 | Projeto PedeSampa | [pedesampa.com.br](https://pedesampa.com.br) |
 | GitHub | [github.com/rafarisso](https://github.com/rafarisso) |
 
@@ -101,4 +108,4 @@ Atualmente venho aprofundando meus conhecimentos em:
 
 Estou construindo minha atuação na interseção entre inteligência artificial, educação, criação de conteúdo e desenvolvimento de soluções digitais.
 
-Minha busca atual é aprender, testar, ensinar e construir com IA todos os dias.
+Minha busca atual é aprender, testar, ensinar e construir com IA todos os dias, compartilhando essa jornada no LinkedIn, no YouTube e em projetos práticos como o PedeSampa.
